@@ -160,8 +160,8 @@ function draw(now) {
   )
   if (min >= 10) {
     drawText(
-      "✍🔥",
-      canvas.width / 2 - 5,
+      "✍🔥👨‍💻",
+      canvas.width / 2,
       canvas.height / 2 - 30,
       "rgba(255, 255, 255, 1.0)",
       "40px",
@@ -190,7 +190,7 @@ function draw(now) {
     // )
   }
 
-  ////////////////////////////// 
+  //////////////////////////////
   // PLEASE DO NOT DELETE BELOW!
   // IF YOU WANT TO THANK ME 😊
   drawText(
@@ -200,8 +200,8 @@ function draw(now) {
     "rgba(255, 255, 255, 0.7)",
     "25px",
   )
-  ////////////////////////////// 
- 
+  //////////////////////////////
+
   window.requestAnimationFrame(draw)
 }
 
