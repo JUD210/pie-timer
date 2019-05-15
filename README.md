@@ -9,9 +9,10 @@ I Changed some source code from the [original 'Pie Timer' (Click)](https://codep
 2. Unzip
 3. Add a Browser Source
 4. Check Local file and Browse index.html
-(Refer 'How to apply on OBS.png' image file.)
 
-If you want to thank me,
+![screenshot](./how_to_apply_on_OBS.png)
+
+If you want to thank me, <br />
 [Please visit my YouTube Channel!](https://www.youtube.com/channel/UCYPWzViA-uq9sBop7ssYaEg)
 
-Like and Subscription gives me a lot of energy! :)
+Your Like and Subscription gives me a lot of energy! 😃
