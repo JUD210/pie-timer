@@ -1,0 +1,28 @@
+body {
+  /* background-color: #202833; */
+  background-color: rgba(0, 0, 0, 0);
+  text-align: center;
+  color: #fafafa;
+}
+
+span {
+  font-family: 'Lobster';
+}
+
+a {
+  color: #fafafa;
+  transition: linear 0.3s;
+  color: #546E7A
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+.canvas {
+  background-color: rgba(0, 0, 0, 0);
+}
