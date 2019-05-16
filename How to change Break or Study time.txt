@@ -1,0 +1,7 @@
+1. Open the js folder
+2. Choose a file you want to apply.
+3. Overwrite 'index.js' to the file.
+
+ex) 
+break(00~10)_study(10~60).js
+-> index.js
