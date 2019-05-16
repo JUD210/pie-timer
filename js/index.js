@@ -42,13 +42,13 @@ function draw(now) {
     hr -= 12
   }
 
-  if (min == 0 && sec <= 2) {
-    document.getElementById("breakTimeAudio").play()
-  }
+  // if (min == 0 && sec <= 2) {
+  //   document.getElementById("breakTimeAudio").play()
+  // }
 
-  if (min == 10 && sec <= 2) {
-    document.getElementById("studyTimeAudio").play()
-  }
+  // if (min == 10 && sec <= 2) {
+  //   document.getElementById("studyTimeAudio").play()
+  // }
 
   radH = 0.000008333 * (hr * 60 * 60 * 1000 + min * 60 * 1000 + sec * 1000 + ms)
   radM = 0.0001 * (min * 60 * 1000 + sec * 1000 + ms)
