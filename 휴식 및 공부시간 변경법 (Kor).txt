@@ -1,0 +1,7 @@
+1. js folder 열기
+2. 적용하고 싶은 파일 선택.
+3. 'index.js' 파일 덮어씌우기.
+
+ex) 
+break(00~10)_study(10~60).js
+-> index.js

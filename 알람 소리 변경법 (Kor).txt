@@ -1,0 +1,48 @@
+각각의 알람은 휴식/공부 시간이 시작될 때 울립니다.
+
+알람 소리를 변경하고 싶으시면,
+아래 사이트를 이용해서 음악 파일들을 편집 및 저장해주세요.
+
+https://mp3cut.net/
+
+(mp3 포맷으로 저장해주셔야 합니다.)
+
+그 다음 audio 폴더 안에 있는 아래의 mp3 파일들을 덮어 씌워주세요.
+
+Alarm-Break.mp3
+Alarm-Start.mp3
+
+ex) School Bell.mp3 -> Alarm-Start.mp3
+
+
+========================================================
+!! 스트리머분들께 전하는 주의사항 (OBS, XSplit, ...) !!
+========================================================
+
+이 알람들은 기본 오디오 재생 장치에서만 재생됩니다!!
+방송에 이 알람 소리를 송출하고 싶으시면,
+
+-----------------------------------------
+>>> 방법 1. 
+기본 오디오 재생 장치의 소리를 그대로 방송에 송출하시면 됩니다.
+
+-----------------------------------------
+>>> Solution 2. 
+제가 사용하는 아래의 조합을 따르시면 됩니다.
+
+'Alarm Clock' + 'Virtual Audio Cable' + 'Audio Controller'
+
+Free Alarm Clock
+http://freealarmclocksoftware.com/
+
+Free Virtual Audio Cable: VB-CABLE
+https://www.vb-audio.com/Cable/
+
+Free Audio Controller: EarTrumpet
+https://github.com/File-New-Project/EarTrumpet
+
+
+죄송하지만, 꽤나 복잡한 방법이므로, 
+이것들을 어떻게 조합하여 사용할지는 설명해드리지 않을 겁니다.
+
+정말 원하신다면 각 프로그램들의 사용법을 읽어보시고 적용하시면 됩니다!

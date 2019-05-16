@@ -1,0 +1,47 @@
+Each alarm sounds when the Break/Study Time starts.
+
+If you want to change alarm sounds,
+Just edit & save some music files using below site.
+
+https://mp3cut.net/
+
+(You should save in mp3 format)
+
+
+Then overwrite those mp3 files in audio folder.
+
+Alarm-Break.mp3
+Alarm-Start.mp3
+
+ex) School Bell.mp3 -> Alarm-Start.mp3
+
+
+========================================================
+!! CAUTION FOR THE STREAMERS (OBS, XSplit, ...) !!
+========================================================
+
+You MUST Know that this sounds alarms on your default audio device ONLY!!
+If you want to stream/record these alarm sounds,
+
+-----------------------------------------
+>>> Solution 1. 
+Just stream your default audio device's sound.
+
+-----------------------------------------
+>>> Solution 2. 
+Follow this combination what I'm using.
+
+'Alarm Clock' + 'Virtual Audio Cable' + 'Audio Controller'
+
+Free Alarm Clock
+http://freealarmclocksoftware.com/
+
+Free Virtual Audio Cable: VB-CABLE
+https://www.vb-audio.com/Cable/
+
+Free Audio Controller: EarTrumpet
+https://github.com/File-New-Project/EarTrumpet
+
+
+I'm sorry, but I'm not gonna explain how to combinate these all as its very complicated.
+Just read each program's documentation if you really want to!
